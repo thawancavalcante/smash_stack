@@ -2,7 +2,7 @@
 
 The Smash Stack project demonstrates the integration of Firebase Firestore with both a Flutter mobile app and a Node.js script for importing data. The project involves creating Firestore collections and documents, importing data into Firestore using a Node.js script, and displaying the data in a Flutter app.
 
-<img src="./public/smash_app_demo.gif" alt="Smash App Demo" width="600"/>
+<img src="./public/smash_app_demo.gif" alt="Smash App Demo" width="400"/>
 
 ## Smash Stack Components
 
