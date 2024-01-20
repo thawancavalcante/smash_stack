@@ -1,0 +1,4 @@
+node_modules
+
+#firebase env vars
+credentials.json
